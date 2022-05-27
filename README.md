@@ -1,4 +1,4 @@
-# G3_EVolve_framework
+# G3_EVo_framework
 This Jupyter Notebook is a thermodynamic framework for calculating and visualing magma properties using EVolve thermodynamic model.
 
 EVolve thermodynamic model: https://github.com/pipliggins/EVolve
