@@ -1,7 +1,7 @@
 # G3_EVo_framework
 This Jupyter Notebook is a thermodynamic framework for calculating and visualing magma properties using EVo thermodynamic model.
 
-EVo thermodynamic model: https://github.com/pipliggins/EVo_2.0
+EVo thermodynamic model: https://github.com/pipliggins/EVo
 
 References:
 - Liggins, P., Shorttle, O., & Rimmer, P. B. (2020). Can volcanism build hydrogen-rich early atmospheres?. Earth and Planetary Science Letters, 550, 116546. https://doi.org/10.1016/j.epsl.2020.116546
