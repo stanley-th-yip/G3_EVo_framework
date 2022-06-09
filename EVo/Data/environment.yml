@@ -1,0 +1,14 @@
+name: evo_venv
+channels:
+  - defaults
+dependencies:
+  - pip
+  - pandas==1.0.1
+  - python==3.7
+  - numpy==1.15.3
+  - scipy==1.1.0
+  - matplotlib==3.0.3
+  - mpmath==1.1.0
+  - gmpy2
+  - sympy==1.3
+  - pyyaml
