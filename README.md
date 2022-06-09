@@ -1,7 +1,7 @@
 # G3_EVo_framework
-This repository archives the Jupyter Notebook and data used in the article "Contrasting volcanic deformation in arc and ocean island settings due to exsolution of magmatic water" by Yip et al. (2022).
+This repository archives the Jupyter Notebook and data used in the article "Contrasting volcanic deformation in arc and ocean island settings due to exsolution of magmatic water" by Yip et al. (2022). The files can be downloaded from Zenodo: https://doi.org/10.5281/zenodo.6628504
 
-The Jupyter notebook outlines the thermodynamic framework for calculating and visualing magma properties using EVo thermodynamic model.
+The Jupyter notebook outlines the thermodynamic framework for calculating and visualing magma properties using EVo thermodynamic model. 
 
 EVo thermodynamic model: https://github.com/pipliggins/EVo
 
