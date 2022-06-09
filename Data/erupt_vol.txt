@@ -1,0 +1,29 @@
+Volc_eruption	Volc_setting	Erupted_volume	Uncertainty	degas	deform
+Bárðarbunga 2014	1	1.36E+09	7.00E+07	y	y
+Eyjafjallajökull 2010	1	1.80E+08	5.00E+07	y	y
+Fernandina 2005	1	1.40E+07	nan	y	y
+Fernandina 2009	1	4.27E+07	nan	y	y
+Fernandina 2017	1	9.70E+06	4.90E+06	y	n
+Fernandina 2018	1	5.90E+06	3.00E+06	y	n
+Pdl. Fournaise 2006	1	1.50E+08	nan	y	y
+Pdl. Fournaise 2015	1	4.00E+07	nan	y	n
+Pdl. Fournaise Sep 2016	1	6.50E+06	nan	y	n
+Pdl. Fournaise May 2016	1	5.00E+05	nan	y	y
+Pdl. Fournaise 2018	1	5.54E+06	1.66E+06	y	y
+Pdl. Fournaise 2019	1	1.40E+07	5.00E+06	y	y
+Grímsvötn 2011	1	2.70E+08	7.00E+07	y	n
+Karthala 2006	1	1.80E+07	nan	y	n
+Karthala 2007	1	1.00E+05	nan	y	y
+Kīlauea 2018	1	5.93E+08	1.10E+07	y	y
+Sierra Negra 2005	1	1.20E+08	7.00E+07	y	y
+Sierra Negra 2018	1	1.41E+08	7.10E+07	y	y
+Wolf 2015	1	8.70E+07	3.38E+07	y	y
+Fuego 2018	2	4.00E+07	1.00E+07	y	n
+Kasatochi 2008	2	2.15E+08	6.50E+07	y	n
+Llaima 2008	2	1.31E+06	nan	y	y
+Okmok 2008	2	3.00E+08	nan	y	y
+Tolbachik 2012	2	5.50E+08	nan	n	y
+Manam 2005	2	1.00E+05	nan	y	n
+Manam 2014	2	1.00E+05	nan	n	n
+Villarica 2014	2	4.70E+06	1.00E+06	n	n
+Ulawun 2019	2	1.00E+05	nan	y	n
